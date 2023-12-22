@@ -80,9 +80,10 @@ bun dev
 
 6. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-7. Open [http://localhost:8000/posts](http://localhost:8000/posts) with your browser to see the JSON Sever result.
+7. Open [http://localhost:8000/posts](http://localhost:8000/posts) with your browser to see the JSON Server result.
 
 ## Deploy on Vercel
 
+[https://blog-np36i3ecg-abhinash199.vercel.app/](https://blog-np36i3ecg-abhinash199.vercel.app/)
 
 ## Screenshot
