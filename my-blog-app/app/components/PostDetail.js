@@ -15,8 +15,7 @@ const PostDetail = ({ params }) => {
   //fetch Post Detail for ID
   const fetchDetail = async (id) => {
     try {
-      const response = await axios.get(
-        `${process.env.NEXT_PUBLIC_API_URL}/posts/${id}`
+      const response = await axios.get(`${process.env.NEXT_PUBLIC_API_URL}/posts/${id}`
       );
       setdetail(response.data);
       setLoading(false);
