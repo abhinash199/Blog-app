@@ -14,7 +14,7 @@ export const BlogContext = createContext();
 const blogReducer = (state, action) => {
   switch (action.type) {
     case "FETCH_POSTS":
-      return { ...state, posts: action.payload };
+      return { ...state, posts: action.payload};
     case "ADD_POST":
       return { ...state, posts: [...state.posts, action.payload] };
     default:
@@ -31,7 +31,7 @@ export const BlogProvider = ({ children }) => {
       const response = await axios.get(
         `${process.env.NEXT_PUBLIC_API_URL}/posts`
       );
-      dispatch({ type: "FETCH_POSTS", payload: response.data });
+      dispatch({ type: "FETCH_POSTS", payload: response.data.sort().reverse()});
     } catch (error) {
       console.error("Error fetching posts:", error);
     }
@@ -49,7 +49,8 @@ export const BlogProvider = ({ children }) => {
           },
         }
       );
-      dispatch({ type: "ADD_POST", payload: response.data });
+     
+      dispatch({ type: "ADD_POST", payload: response.data.sort().reverse() });
     } catch (error) {
       console.error("Error adding post:", error);
     }
