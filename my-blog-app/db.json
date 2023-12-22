@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "earn json-server",
+      "content": "dummy content",
+      "author": "Mrinmay Mukherjee"
+    },
+    {
+      "id": 2,
+      "title": "Abhinash Sharma",
+      "content": "dummy content",
+      "author": "Mrinmay Mukherjee"
+    },
+    {
+      "title": "ug",
+      "content": "hj",
+      "author": "ku",
+      "id": 3
+    },
+    {
+      "title": "Food",
+      "content": "This is food bolg",
+      "author": "Abhi",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "it's pretty awesome",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Mrinmay Mukherjee"
+  }
+}
