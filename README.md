@@ -87,3 +87,10 @@ bun dev
 [https://blog-np36i3ecg-abhinash199.vercel.app/](https://blog-np36i3ecg-abhinash199.vercel.app/)
 
 ## Screenshot
+
+
+<img width="960" alt="Home" src="https://github.com/abhinash199/Blog-app/assets/67772367/cfa136e0-6de2-49aa-b3a7-35ebd4520f4d">
+
+<img width="959" alt="App Post" src="https://github.com/abhinash199/Blog-app/assets/67772367/84bb7830-7b32-4a4e-bb25-be52e5d9d310">
+
+<img width="960" alt="post detail" src="https://github.com/abhinash199/Blog-app/assets/67772367/67c5ae99-88ab-4146-b18b-d19f8987790b">
