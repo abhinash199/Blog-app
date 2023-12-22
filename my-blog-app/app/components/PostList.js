@@ -37,7 +37,9 @@ const PostList = ({ posts }) => {
                     {post.title}
                   </h2>
                   <p className="text-gray-600 mb-2 text-sm sm:text-base">
-                    {post.content.slice(0, 100)}...
+                    {post.content.length < 100
+                      ? post.content
+                      : post.content.slice(0, 100) + "..."}
                   </p>
                 </div>
               </Link>
