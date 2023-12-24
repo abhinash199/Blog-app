@@ -61,7 +61,7 @@ Implementation: User-friendly error messages are displayed in case of errors, pr
 ## Getting Started and set up
 
 1. Clone the repo using git clone https://github.com/abhinash199/Blog-app.git
-2. goto to **my-blog-app** folder
+2. goto **my-blog-app** folder
 3. Install the dependencies using npm install or yarn install
 4. Run the development server using 
 ```bash
