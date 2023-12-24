@@ -90,7 +90,6 @@ bun dev
 
 ## Deploy on Vercel
 
-## Note:
 Firstly You need to start JSON Server in your local machine to see the blog posts. Follow the **steps 5th & 6th** in order to start the json server 
 
 [https://blog-np36i3ecg-abhinash199.vercel.app/](https://blog-np36i3ecg-abhinash199.vercel.app/)
