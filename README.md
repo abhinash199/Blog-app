@@ -74,7 +74,7 @@ pnpm dev
 bun dev
 ```
 5. Install JSON Server 
-    To install JSON Server in your application, navigate to **my-blog-app** folder directory in your terminal or command prompt and type this command:
+    To install JSON Server in your application, open a new terminal or command prompt and navigate to **my-blog-app** folder directory and type this command:
     ```
    npm install -g json-server.
     ```
