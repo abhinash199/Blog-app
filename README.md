@@ -97,6 +97,11 @@ Firstly You need to start JSON Server in your local machine to see the blog post
 
 
 ## Screenshot
+ <img width="954" alt="dev start" src="https://github.com/abhinash199/Blog-app/assets/67772367/8214b5cc-da26-4fca-bc83-8d12406ca364">
+ 
+<img width="960" alt="json server" src="https://github.com/abhinash199/Blog-app/assets/67772367/f6603e4d-0853-4247-9dac-d32d7f835e08">
+
+<img width="960" alt="json" src="https://github.com/abhinash199/Blog-app/assets/67772367/c30b5afc-214c-4524-85b9-7dc2e3225a8d">
 
 
 <img width="960" alt="Home" src="https://github.com/abhinash199/Blog-app/assets/67772367/cfa136e0-6de2-49aa-b3a7-35ebd4520f4d">
@@ -104,6 +109,12 @@ Firstly You need to start JSON Server in your local machine to see the blog post
 <img width="959" alt="App Post" src="https://github.com/abhinash199/Blog-app/assets/67772367/84bb7830-7b32-4a4e-bb25-be52e5d9d310">
 
 <img width="960" alt="post detail" src="https://github.com/abhinash199/Blog-app/assets/67772367/67c5ae99-88ab-4146-b18b-d19f8987790b">
+
+<img width="960" alt="mob-1" src="https://github.com/abhinash199/Blog-app/assets/67772367/42545b85-d420-4688-aa62-24b027833797">
+
+<img width="960" alt="mob-2" src="https://github.com/abhinash199/Blog-app/assets/67772367/ceadf5fb-ff64-4e29-8a21-a76e4375a753">
+
+<img width="960" alt="mob-3" src="https://github.com/abhinash199/Blog-app/assets/67772367/087e7807-bb34-4d9b-bf29-280839d02d3a">
 
 
 ## Referencces
