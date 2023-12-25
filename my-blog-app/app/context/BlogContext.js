@@ -29,7 +29,7 @@ export const BlogProvider = ({ children }) => {
   const fetchPosts = async () => {
     try {
       const response = await axios.get(
-        `${process.env.NEXT_PUBLIC_API_URL}/posts`
+        `https://json-deploy-one.vercel.app/posts`
       );
       dispatch({ type: "FETCH_POSTS", payload: response.data.sort().reverse()});
     } catch (error) {
@@ -41,7 +41,7 @@ export const BlogProvider = ({ children }) => {
   const addPost = async (newPost) => {
     try {
       const response = await axios.post(
-        `${process.env.NEXT_PUBLIC_API_URL}/posts`,
+        `https://json-deploy-one.vercel.app/posts`,
         newPost,
         {
           headers: {
